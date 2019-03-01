@@ -6,8 +6,8 @@ Realiación de una alarma de incencios a través del lenguaje C de programación
 Jaime, Sergio y Brais
 Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
 Jaime Muñoz Mejías. Jaimemunoz07
-Sergio
-Brais
+Sergio Pérez Cubedo. sergiio99
+Brais Rodríguez Marigil. braisrodriguezmarigil
 ## Objetivos del trabajo
 Conseguir el funcionamiento de la alamrma de incendios.
 Lista de los objetivos que se persiguen con el trabajo propuesto.
